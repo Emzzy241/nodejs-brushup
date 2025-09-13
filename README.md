@@ -6,6 +6,12 @@
 * _NodeJS_
 _Git_
 
+## Description
+_Taking up a NodeJS Crash Course from Traversy Media to brush up on NodeJS fundamentals._
+
+## Hosted Web Server on render
+https://nodejs-brushup.onrender.com/
+
 ## Setup/Installation
 1. Clone the repository locally
 ```bash
@@ -24,8 +30,6 @@ Developers can either run the project in developer mode or production mode
 For Dev Mode, run the command: npm run dev
 For Prod Mode, run the command: npm start
 ```
-## Description
-_Taking up a NodeJS Crash Course from Traversy Media to brush up on NodeJS fundamentals._
 
 ## Contribution
 Contributions are welcome
