@@ -7,7 +7,7 @@
 _Git_
 
 ## Description
-_Taking up a NodeJS Crash Course from Traversy Media to brush up on NodeJS fundamentals. ONly Used NodeJS, no frameworks like Express or bun._
+_Taking up a NodeJS Crash Course from Traversy Media to brush up on NodeJS fundamentals. ONly Used NodeJS, no frameworks like ExpressJS._
 
 ## Hosted Web Server on render
 https://nodejs-brushup.onrender.com/
